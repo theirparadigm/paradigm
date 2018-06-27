@@ -1,0 +1,15 @@
+body { 
+    margin:0;
+    padding:0;
+    background: url(character.gif) no-repeat center fixed; 
+    -webkit-background-size: cover; /* pour anciens Chrome et Safari */
+    background-size: cover; /* version standardisée */
+}
+
+#screen{
+    position:fixed;
+    display:block;
+    width:100%;
+    height:100%;
+}
+
