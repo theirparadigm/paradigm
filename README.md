@@ -1,4 +1,4 @@
-# paradigm
+# Paradigm
 https://media.giphy.com/media/2YsaUK4127mQO0Fe0E/giphy.gif
 
 This is a web game of exploration and puzzles, inspired by Portal & Antichamber, for those who love computing.
