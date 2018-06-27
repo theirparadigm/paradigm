@@ -1,8 +1,9 @@
 # paragim
 https://image.noelshack.com/fichiers/2018/26/3/1530118880-lvl33.jpg
 
-This is a web game of exploration and puzzles, inspired by Portal & Antichamber.
-To try the first level : https://theirparadigm.000webhostapp.com/
+This is a web game of exploration and puzzles, inspired by Portal & Antichamber, for those who love computing.
+
+To try the level zero : https://theirparadigm.com/
 
 
 
