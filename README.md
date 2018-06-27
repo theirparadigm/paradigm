@@ -1,4 +1,4 @@
-# paragim
+# paradigm
 https://media.giphy.com/media/2YsaUK4127mQO0Fe0E/giphy.gif
 
 This is a web game of exploration and puzzles, inspired by Portal & Antichamber, for those who love computing.
@@ -8,7 +8,7 @@ To try the level zero : https://theirparadigm.com/
 
 
 
-Gameplay :
+# Gameplay :
 
 
 The map as a whole is a triangle of sierpinski (a triangular fractal, whose triforce is the n1).
@@ -26,7 +26,7 @@ http://www.noelshack.com/2018-25-6-1529779037-arbre.png
 
 
 
-Story :
+# Story :
 
 
 The player will discover the basic laws of physics and computer science and will discover the paradoxes that ensue ... A voice will accompany the player constantly, to tell him what to do and tease ... The scenario is inspired by 3 movies: Interstellar, Matrix, Donnie Darko.
