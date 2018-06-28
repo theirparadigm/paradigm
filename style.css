@@ -1,9 +1,9 @@
 body { 
     margin:0;
     padding:0;
-    background: url(character.gif) no-repeat center fixed; 
     -webkit-background-size: cover; /* pour anciens Chrome et Safari */
     background-size: cover; /* version standardisée */
+    background-color:black;
 }
 
 #screen{
@@ -29,7 +29,7 @@ body {
     font-size:80px;
     vertical-align: center;
     text-align:center;
-    font-family: monospace !important;
+    font-family: "Lucida Console", Courier, monospace;
 
 }
 

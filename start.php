@@ -1,3 +1,7 @@
+<?php
+session_start();
+$_SESSION['i'] = 0;
+?>
 <!-- You should not do that... ( ͡° ͜ʖ ͡°) -->
 
 <!DOCTYPE html>
@@ -16,6 +20,9 @@
 
             <script>
 
+<?php if($_SESSION['i'] == 1){
+    ?>console.log("༼(づ｡◕‿‿◕｡)づ hm, it seems like in an infinite loop...");<?php
+}?>
 
 function me(){
     cpt=9999;
@@ -246,7 +253,7 @@ function idk(){
     $('body').css("background-image", "url(character.gif)");  
 }
 function start(){
-    document.location.href="index.html" 
+    document.location.href="index.php" 
 }
 
 
