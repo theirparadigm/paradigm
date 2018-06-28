@@ -1,6 +1,6 @@
 <?php
 session_start();
-$_SESSION['i'] = 0;
+$_SESSION['i'] ++;
 ?>
 <!-- You should not do that... ( ͡° ͜ʖ ͡°) -->
 
@@ -20,7 +20,7 @@ $_SESSION['i'] = 0;
 
             <script>
 
-<?php if($_SESSION['i'] == 1){
+<?php if($_SESSION['i'] >= 4){
     ?>console.log("༼(づ｡◕‿‿◕｡)づ hm, it seems like in an infinite loop...");<?php
 }?>
 

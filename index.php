@@ -1,5 +1,6 @@
 <?php
 session_start();
+if(empty($_SESSION['i'])){$_SESSION['i'] =0;}
 $_SESSION['i'] ++;
 ?>
 <!-- You should not do that... ( ͡° ͜ʖ ͡°) -->
