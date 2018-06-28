@@ -13,3 +13,23 @@ body {
     height:100%;
 }
 
+#message{
+    position:fixed;
+    display:inline-block;
+    height:100%;
+    width:100%;
+    margin:0;
+    padding:0;
+    background: url(follow_me.gif) no-repeat center fixed !important; 
+    -webkit-background-size: cover; /* pour anciens Chrome et Safari */
+    background-size: cover; /* version standardisée */
+    width:100%;
+    color:white;
+    font-style:bold;
+    font-size:80px;
+    vertical-align: center;
+    text-align:center;
+    font-family: monospace !important;
+
+}
+
